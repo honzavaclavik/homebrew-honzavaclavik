@@ -1,4 +1,4 @@
-cask "vacihacek-player" do
+cask "vaci-player" do
   version "1.0.0"
   sha256 "ab5a777fa3f56e4d385ff5ff106bd9a60f9b2ac300f7772a02503ba1c58c1c7d" # Will be calculated after first release
 
