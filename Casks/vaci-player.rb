@@ -1,6 +1,6 @@
 cask "vaci-player" do
-  version "1.0.0"
-  sha256 "ab5a777fa3f56e4d385ff5ff106bd9a60f9b2ac300f7772a02503ba1c58c1c7d" # Will be calculated after first release
+  version "1.0.1"
+  sha256 "2fa117944b06fdb322458fbf1d5a48a38a0bf0668d3ce089ac00b80460847707"
 
   url "https://github.com/honzavaclavik/Vaci-Player/releases/download/#{version}/VaciPlayer-#{version}-darwin.tar.gz"
   name "VáciHáček Player"
